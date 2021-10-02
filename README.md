@@ -25,6 +25,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### References
 https://medium.com/openberry/creating-a-simple-crowdfunding-dapp-with-ethereum-solidity-and-vue-js-69ddb8e132dd#
-
-## Future Work
-- Recreate a simpler version of the application 
